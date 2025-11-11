@@ -5,6 +5,9 @@ Built using **HTML, CSS, and JavaScript**, it offers a clean and peaceful readin
 
 ---
 
+🌐 **Live Demo:** [view now](https://bhagavatgita-by-jenish.netlify.app/)
+
+---
 ## 🚀 Features
 
 - 📖 **Browse Chapters** – Explore all 18 chapters with names and summaries.  
@@ -14,6 +17,7 @@ Built using **HTML, CSS, and JavaScript**, it offers a clean and peaceful readin
 - 🌐 **API Integration** – Uses [Vedic Scriptures API](https://vedicscriptures.github.io/) to fetch authentic Gita content.  
 
 ---
+
 
 ## 🛠️ Tech Stack
 
