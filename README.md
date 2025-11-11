@@ -20,3 +20,9 @@ Built using **HTML, CSS, and JavaScript**, it offers a clean and peaceful readin
 - **Frontend:** HTML, CSS, JavaScript  
 - **API:** Bhagavad Gita API  
 - **Deployment:** GitHub Pages / Netlify  
+
+## 👨‍💻 Developer
+
+Jenish
+MERN Stack Developer | Video Editor | Passionate about clean UI and spiritual web apps
+🔗 GitHub Profile
